@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, maximum-scale=1.0, minimum-scale=1.0, shrink-to-fit=yes">
-    <title>EnergyTap • Пиксельные котики и энергия</title>
+    <title>EnergyTap</title>
     <style>
         * {
             margin: 0;
